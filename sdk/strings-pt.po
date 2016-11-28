@@ -1,0 +1,69 @@
+#. Error/warning messages
+msgctxt "title_error"
+msgid "Error"
+msgstr ""
+
+msgctxt "title_error_unexpected"
+msgid "Unexpected error"
+msgstr ""
+
+msgctxt "error_not_found"
+msgid "Server not found."
+msgstr ""
+
+msgctxt "error_unauthorized"
+msgid "Wrong username or password."
+msgstr ""
+
+#. Logout warning dialog:
+msgctxt "warning_logout_body"
+msgid ""
+"You will be logged out and any files that have been saved on this device for "
+"offline viewing will be deleted."
+msgstr ""
+
+msgctxt "warning_logout_header"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt "warning_logout_confirm"
+msgid "Log out"
+msgstr ""
+
+msgctxt "warning_logout_dismiss"
+msgid "close"
+msgstr ""
+
+#. Background syncing
+msgctxt "authority"
+msgid "DEFAULT_AUTHORITY"
+msgstr ""
+
+msgctxt "account_type"
+msgid "DEFAULT_ACCOUNT_TYPE"
+msgstr ""
+
+#. Sync notifications
+msgctxt "sync_complete_notification_title"
+msgid "Sync complete"
+msgstr ""
+
+msgctxt "sync_complete_notification_content"
+msgid "Your DHIS2 data has been synchronized"
+msgstr ""
+
+msgctxt "sync_failed_notification_title"
+msgid "Sync failed"
+msgstr ""
+
+msgctxt "sync_failed_notification_content"
+msgid "Your DHIS2 data has not been synchronized"
+msgstr ""
+
+msgctxt "sync_in_progress_notification_title"
+msgid "Syncing"
+msgstr ""
+
+msgctxt "sync_in_progress_notification_content"
+msgid "Your DHIS2 data is synchronizing"
+msgstr ""

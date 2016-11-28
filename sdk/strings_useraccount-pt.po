@@ -1,0 +1,59 @@
+msgctxt "first_name"
+msgid "First name"
+msgstr ""
+
+msgctxt "surname"
+msgid "Surname"
+msgstr ""
+
+msgctxt "gender"
+msgid "Gender"
+msgstr ""
+
+msgctxt "gender_male"
+msgid "Male"
+msgstr ""
+
+msgctxt "gender_female"
+msgid "Female"
+msgstr ""
+
+msgctxt "gender_other"
+msgid "Other"
+msgstr ""
+
+msgctxt "birthday"
+msgid "Birthday"
+msgstr ""
+
+msgctxt "introduction"
+msgid "Introduction"
+msgstr ""
+
+msgctxt "education"
+msgid "Education"
+msgstr ""
+
+msgctxt "employer"
+msgid "Employer"
+msgstr ""
+
+msgctxt "interests"
+msgid "Interests"
+msgstr ""
+
+msgctxt "job_title"
+msgid "Job title"
+msgstr ""
+
+msgctxt "languages"
+msgid "Languages"
+msgstr ""
+
+msgctxt "email"
+msgid "Email"
+msgstr ""
+
+msgctxt "phone_number"
+msgid "Phone number"
+msgstr ""
