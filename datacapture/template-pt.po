@@ -1,0 +1,33 @@
+# Translations template for PROJECT.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-08-02 06:01-0400\n"
+"PO-Revision-Date: 2016-08-17 21:21+0000\n"
+"Last-Translator: emosse <emiliomosse@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.8\n"
+"Generated-By: Babel 2.2.0\n"
+"X-POOTLE-MTIME: 1471468884.000000\n"
+
+msgctxt "app_name"
+msgid "dhis2-android-skeleton"
+msgstr "esqueleto-android-dhis2"
+
+msgctxt "drawer_item_placeholder"
+msgid "Items"
+msgstr "Items"
+
+msgctxt "placeholder"
+msgid "Something important goes here"
+msgstr "Coisas importantes escreva aqui"
